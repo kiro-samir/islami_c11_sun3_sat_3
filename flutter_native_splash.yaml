@@ -1,0 +1,15 @@
+flutter_native_splash:
+  color: "#ffffff"
+  image: asstes/image/splash_screen.png
+  branding: asstes/image/Group 7 (1).png
+  color_dark: "#1B2440"
+  image_dark: asstes/image/splash_screen_dark.png
+  branding_dark: asstes/image/Group 8 (1).png
+
+  android_12:
+    image: asstes/image/splash_screen.png
+    branding: asstes/image/Group 7 (1).png
+    icon_background_color: "#ffffff"
+    image_dark: asstes/image/splash_screen_dark.png
+    icon_background_color_dark: "#1B2440"
+    branding_dark: asstes/image/Group 8 (1).png
